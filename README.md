@@ -23,14 +23,14 @@
   <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Extension Badge">
 </a>
 
-### Features
+### 🚀 Features
 
 - Summarize articles in **brief**, **detailed**, or **bullet point** formats.
 - Works on most websites with article content.
 - Copy summaries to clipboard with one click.
 - Powered by **Google Gemini AI** for intelligent text summarization.
 
-### Installation
+### 💻 Installation
 
 1. Clone or download this repository.
 2. Open Chrome and navigate to `chrome://extensions/`.
@@ -38,7 +38,7 @@
 4. Click **Load unpacked** and select this repository folder.
 5. Pin the ByteBrief extension to your Chrome toolbar.
 
-### Usage
+### 📝 Usage
 
 1. Open any article or webpage.
 2. Click the **ByteBrief** extension icon.
@@ -46,17 +46,17 @@
 4. Click **Summarize** to generate the summary.
 5. Copy the summary using the **Copy** button if needed.
 
-### Configuration
+### ⚙️ Configuration
 
 - Go to the **Options** page to enter your **Google Gemini API key**.
 - Your key is securely stored using Chrome’s `storage.sync`.
 
-### Notes
+### ⚠️ Notes
 
 - Some websites (like `chrome://` pages) do not support content extraction.
 - Summaries are truncated for very long articles to avoid API limits.
 
->[!IMPORTANT]
+> [!IMPORTANT]
 >
 > **Error:**  
 > - Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.
@@ -69,7 +69,7 @@
 > - Checked for `chrome.runtime.lastError` before using the response.  
 > - Confirmed messages are sent to **active tabs** using `chrome.tabs.query`.
 
-### Key Fixes Implemented
+### 🛠 Key Fixes Implemented
 
 - **Dynamic Content Script Injection:** Ensures the message can always reach a content script.
 - **Runtime Error Handling:** Catches `runtime.lastError` to prevent unhandled exceptions.
@@ -78,8 +78,7 @@
 - **Truncation of Long Articles:** Prevents request failures due to API limits.
 - **Improved User Feedback:** Loader animation and meaningful error messages in popup.
 
-
-### Overview
+### 📄 Overview
 
 <div align="center">
   <img width="100%" src="https://github.com/Jostar-Foundation/ByteBrief/blob/main/ByteBrief/images/api-key-input.png">
