@@ -1,10 +1,6 @@
-<img src="">
-
-# ByteBrief
+<img src="https://github.com/Jostar-Foundation/ByteBrief/blob/main/ByteBrief/images/bytebrief%20banner.png">
 
 **ByteBrief** is a Chrome extension that uses AI to generate summaries of online articles. It provides quick and accurate overviews, detailed summaries, or key bullet points directly in your browser.
-
----
 
 ## Features
 
@@ -12,14 +8,6 @@
 - Works on most websites with article content.
 - Copy summaries to clipboard with one click.
 - Powered by **Google Gemini AI** for intelligent text summarization.
-
----
-
-## Demo
-
-![ByteBrief Demo](demo.gif) <!-- Replace with your actual GIF or image -->
-
----
 
 ## Installation
 
@@ -29,8 +17,6 @@
 4. Click **Load unpacked** and select this repository folder.
 5. Pin the ByteBrief extension to your Chrome toolbar.
 
----
-
 ## Usage
 
 1. Open any article or webpage.
@@ -39,22 +25,16 @@
 4. Click **Summarize** to generate the summary.
 5. Copy the summary using the **Copy** button if needed.
 
----
-
 ## Configuration
 
 - Go to the **Options** page to enter your **Google Gemini API key**.
 - Your key is securely stored using Chrome’s `storage.sync`.
-
----
 
 ## Tech Stack
 
 - JavaScript
 - Chrome Extensions API
 - Google Gemini AI
-
----
 
 ## Notes
 
@@ -63,6 +43,4 @@
 
 ---
 
-## License
 
-MIT License © [Your Name]
