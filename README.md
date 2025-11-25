@@ -4,11 +4,11 @@
 
 <!-- Source Code Badge -->
 <a href="https://github.com/Jostar-Foundation/ByteBrief/tree/main/ByteBrief" target="_blank">
-  <img src="https://img.shields.io/badge/Source%20Code-808080?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
+  <img src="https://img.shields.io/badge/Source%20Code-4D5054?style=for-the-badge&logo=github&logoColor=white" alt="Source Code Badge"></a>
 
 <!-- Gemini API Badge -->
 <a href="https://ai.google.com/gemini/" target="_blank">
-  <img src="https://img.shields.io/badge/Gemini%20API-808080?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API Badge"></a>
+  <img src="https://img.shields.io/badge/Gemini%20API-4D5054?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API Badge"></a>
 
 <!-- HTML Badge -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
