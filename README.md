@@ -1,5 +1,6 @@
 <img width="100%" src="https://github.com/Jostar-Foundation/ByteBrief/blob/main/ByteBrief/images/bytebrief%20banner.png">
 
+# ByteBrief — An AI-powered News Summarizer
 **ByteBrief** is a Chrome extension that uses AI to generate summaries of online articles. It provides quick and accurate overviews, detailed summaries, or key bullet points directly in your browser.
 
 <!-- Source Code Badge -->
