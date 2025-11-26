@@ -68,6 +68,7 @@
 > - Ensured the content script is **injected dynamically** if missing using `chrome.scripting.executeScript`.  
 > - Checked for `chrome.runtime.lastError` before using the response.  
 > - Confirmed messages are sent to **active tabs** using `chrome.tabs.query`.
+> - ByteBrief Official Website -> https://bytebriefs.netlify.app/
 
 ### 🛠 Key Fixes Implemented
 
@@ -84,6 +85,7 @@
   <img width="100%" src="https://github.com/Jostar-Foundation/ByteBrief/blob/main/ByteBrief/images/api-key-input.png">
   <img width="100%" src="https://github.com/Jostar-Foundation/ByteBrief/blob/main/ByteBrief/images/extension.png">
   <img width="100%" src="https://github.com/Jostar-Foundation/ByteBrief/blob/main/ByteBrief/images/extension-example.png">
+  <img width="100%" src="https://github.com/Jostar-Foundation/ByteBrief/blob/main/ByteBrief/images/bytebrief-foot.png">
 </div>
 
 ---
