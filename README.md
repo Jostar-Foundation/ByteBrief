@@ -24,33 +24,13 @@
   <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome Extension Badge">
 </a>
 
-### 🚀 Features
+| **Section** | **Details** |
+|------------|-------------|
+| 🚀 **Features** | - Summarize articles in brief, detailed, or bullet point formats.<br>- Works on most websites with article content.<br>- Copy summaries to clipboard with one click.<br>- Powered by Google Gemini AI for intelligent text summarization. |
+| 💻 **Installation** | - Clone or download this repository.<br>- Open Chrome and navigate to `chrome://extensions/`.<br>- Enable Developer mode (top right).<br>- Click **Load unpacked** and select this repository folder.<br>- Pin the **ByteBrief** extension to your Chrome toolbar. |
+| 📝 **Usage** | - Open any article or webpage.<br>- Click the ByteBrief extension icon.<br>- Select the summary type: Brief, Detailed, or Bullets.<br>- Click **Summarize** to generate the summary.<br>- Copy the summary using the **Copy** button if needed. |
+| ⚙️ **Configuration** | - Go to the Options page to enter your Google Gemini API key.<br>- Your key is securely stored using Chrome’s `storage.sync`. |
 
-- Summarize articles in **brief**, **detailed**, or **bullet point** formats.
-- Works on most websites with article content.
-- Copy summaries to clipboard with one click.
-- Powered by **Google Gemini AI** for intelligent text summarization.
-
-### 💻 Installation
-
-1. Clone or download this repository.
-2. Open Chrome and navigate to `chrome://extensions/`.
-3. Enable **Developer mode** (top right).
-4. Click **Load unpacked** and select this repository folder.
-5. Pin the ByteBrief extension to your Chrome toolbar.
-
-### 📝 Usage
-
-1. Open any article or webpage.
-2. Click the **ByteBrief** extension icon.
-3. Select the summary type: **Brief**, **Detailed**, or **Bullets**.
-4. Click **Summarize** to generate the summary.
-5. Copy the summary using the **Copy** button if needed.
-
-### ⚙️ Configuration
-
-- Go to the **Options** page to enter your **Google Gemini API key**.
-- Your key is securely stored using Chrome’s `storage.sync`.
 
 ### ⚠️ Notes
 
